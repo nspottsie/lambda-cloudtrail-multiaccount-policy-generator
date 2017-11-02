@@ -1,0 +1,7 @@
+{
+  "resources": ["arn:aws:events:us-west-1:482174156240:rule/10MinuteTickRule"],
+  "accountIds": [
+    "123456789",
+    "987654321"
+  ]
+}
